@@ -30,7 +30,27 @@ websites:
       twitter: AFCU
       img: americafirstcu.png
       tfa: No
-
+      
+    - name: Banco Afirme (Mexico)
+      url: https://www.afirme.com.mx
+      img:
+      tfa: Yes
+      hardware: Yes
+        
+    - name: Banco Multiva (Mexico)
+      img:
+      tfa: Yes
+      hardware: Yes
+      software: Yes
+      doc: http://www.multiva.com.mx/wps/wcm/connect/banco/multivanet/index_obt
+    
+    - name: Banco Santander Mexicano (Mexico)
+      img:
+      tfa: Yes
+      hardware: Yes
+      software: Yes
+      doc: https://servicios.santander.com.mx/supermovil/faq/main.html
+    
     - name: Bank Central Asia (BCA)
       url: http://www.bca.co.id/en/individual/individual.jsp
       img: bankcentralasia.png
@@ -281,6 +301,14 @@ websites:
       twitter: SCCFCU
       img: sccfcu.png
       tfa: No
+      
+    - name: Scotiabank (Mexico)
+      url: https://www.scotiabank.com.mx
+      img: \\ pendiente
+      tfa: Yes
+      hardware: Yes
+      software: Yes
+      doc: http://www.scotiamovil.com.mx/index_eLlave.php
 
     - name: SEB
       url: http://www.seb.se/pow/default.asp
